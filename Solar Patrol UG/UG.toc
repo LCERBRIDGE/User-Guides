@@ -1,0 +1,64 @@
+\contentsline {chapter}{\numberline {1}Quick Start}{6}%
+\contentsline {section}{\numberline {1.1}Quick Look}{6}%
+\contentsline {chapter}{\numberline {2}Overview}{7}%
+\contentsline {section}{\numberline {2.1}Antenna}{8}%
+\contentsline {section}{\numberline {2.2}Receiver}{9}%
+\contentsline {section}{\numberline {2.3}Software}{10}%
+\contentsline {chapter}{\numberline {3}Observing Sessions}{12}%
+\contentsline {section}{\numberline {3.1}Establish a Session}{12}%
+\contentsline {subsection}{\numberline {3.1.1}VNC Viewer}{12}%
+\contentsline {subsection}{\numberline {3.1.2}Browser}{12}%
+\contentsline {subsection}{\numberline {3.1.3}Python Connection}{13}%
+\contentsline {subsubsection}{Receiver Configurations}{13}%
+\contentsline {chapter}{\numberline {4}Solar Observations}{14}%
+\contentsline {section}{\numberline {4.1}Receiver Configuration}{14}%
+\contentsline {section}{\numberline {4.2}Checking Progress}{14}%
+\contentsline {chapter}{\numberline {5}Data Reduction}{16}%
+\contentsline {section}{\numberline {5.1}Databases}{16}%
+\contentsline {subsection}{\numberline {5.1.1}Establish a Connection for Data Reduction}{16}%
+\contentsline {section}{\numberline {5.2}Public Tables}{16}%
+\contentsline {section}{\numberline {5.3}Data Analysis}{17}%
+\contentsline {subsection}{\numberline {5.3.1}Get an Overview of the Observations}{18}%
+\contentsline {subsection}{\numberline {5.3.2}Time Series}{18}%
+\contentsline {subsection}{\numberline {5.3.3}Boresights}{19}%
+\contentsline {subsection}{\numberline {5.3.4}Maps}{19}%
+\contentsline {chapter}{\numberline {A}Database Tables}{22}%
+\contentsline {chapter}{\numberline {B}Flux Calibration}{25}%
+\contentsline {chapter}{\numberline {C}Data Reduction Tool Documentation}{27}%
+\contentsline {section}{\numberline {C.1}Radio Astronomy Software Tools}{27}%
+\contentsline {section}{\numberline {C.2}Package {\ttfamily Data\_Reduction}}{27}%
+\contentsline {subsection}{\numberline {C.2.1}Class {\ttfamily Observation}}{27}%
+\contentsline {subsubsection}{Attributes}{27}%
+\contentsline {subsubsection}{Data Structure Keys}{29}%
+\contentsline {subsubsection}{Data Format Alternatives}{29}%
+\contentsline {paragraph}{Time}{29}%
+\contentsline {paragraph}{Power}{29}%
+\contentsline {paragraph}{Channel}{29}%
+\contentsline {paragraph}{Coordinates}{29}%
+\contentsline {subsection}{\numberline {C.2.2}Class {\ttfamily DataGetterMixin}}{30}%
+\contentsline {subsection}{\numberline {C.2.3}Class {\ttfamily GriddingMixin}}{30}%
+\contentsline {subsection}{\numberline {C.2.4}Class {\ttfamily Map(Observation, GriddingMixin)}}{30}%
+\contentsline {subsection}{\numberline {C.2.5}Class {\ttfamily Recording}}{30}%
+\contentsline {subsection}{\numberline {C.2.6}Class {\ttfamily Session}}{30}%
+\contentsline {subsubsection}{Public Attributes}{30}%
+\contentsline {subsection}{\numberline {C.2.7}Class {\ttfamily Spectrum (Observation)}}{31}%
+\contentsline {section}{\numberline {C.3}Module {\ttfamily GAVRT}}{31}%
+\contentsline {subsection}{\numberline {C.3.1}Class {\ttfamily Observation(DR.Observation, DR.GriddingMixin)}}{31}%
+\contentsline {subsection}{\numberline {C.3.2}Class {\ttfamily Map(Observation)}}{31}%
+\contentsline {subsubsection}{Attributes}{31}%
+\contentsline {subsubsection}{Methods}{31}%
+\contentsline {subsection}{\numberline {C.3.3}Class {\ttfamily BoresightScan(Observation)}}{32}%
+\contentsline {subsubsection}{Attributes}{32}%
+\contentsline {subsubsection}{Methods}{32}%
+\contentsline {subsection}{\numberline {C.3.4}Class {\ttfamily Session(DR.Session}}{33}%
+\contentsline {subsection}{\numberline {C.3.5}Class {\ttfamily DSS28db(mysql.BaseDB}}{33}%
+\contentsline {section}{\numberline {C.4}module {Data\_Reduction.DSN.GAVRT.Mysql.plotter}}{33}%
+\contentsline {subsection}{\numberline {C.4.1}Class {\ttfamily DBPlotter}}{33}%
+\contentsline {subsubsection}{Attributes}{33}%
+\contentsline {subsubsection}{Methods}{33}%
+\contentsline {paragraph}{Notes}{34}%
+\contentsline {section}{\numberline {C.5}Module {\ttfamily Data\_Reduction.boresight\_fitter}}{36}%
+\contentsline {subsection}{\numberline {C.5.1}Class {\ttfamily ScanFitter}}{36}%
+\contentsline {subsubsection}{Methods}{36}%
+\contentsline {subsubsection}{Attributes}{37}%
+\contentsline {chapter}{\numberline {D}Receiver}{38}%

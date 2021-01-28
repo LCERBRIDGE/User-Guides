@@ -1,0 +1,15 @@
+\contentsline {code}{\numberline {1}{\ignorespaces Quick look at the data from an observing session.}}{6}%
+\contentsline {code}{\numberline {2}{\ignorespaces Creating a {\ttfamily Session} object.}}{11}%
+\contentsline {code}{\numberline {3}{\ignorespaces Checking the current receiver configuration. (The output has been reformatted to save space.)}}{13}%
+\contentsline {code}{\numberline {4}{\ignorespaces Checking progress during an observation.}}{15}%
+\contentsline {code}{\numberline {5}{\ignorespaces Querying {\ttfamily gavrt\_sources} for its tables.}}{17}%
+\contentsline {code}{\numberline {6}{\ignorespaces Opening and closing a data reduction session using the GAVRT MySQL database.}}{17}%
+\contentsline {code}{\numberline {7}{\ignorespaces Example of querying a database for its tables.}}{17}%
+\contentsline {code}{\numberline {8}{\ignorespaces List of columns in the {\ttfamily tlog} table.}}{18}%
+\contentsline {code}{\numberline {9}{\ignorespaces Getting the session directory.}}{18}%
+\contentsline {code}{\numberline {10}{\ignorespaces Plotting $T_{op}$ as a function of time.}}{19}%
+\contentsline {code}{\numberline {11}{\ignorespaces Example to code to inspect boresight data}}{19}%
+\contentsline {code}{\numberline {12}{\ignorespaces Program {\ttfamily mapList} can be used to get a session summary.}}{20}%
+\contentsline {code}{\numberline {13}{\ignorespaces Producing map images.}}{20}%
+\contentsline {code}{\numberline {14}{\ignorespaces Data returned from {\ttfamily maps\_from\_tlogs()}.}}{21}%
+\contentsline {code}{\numberline {15}{\ignorespaces Centering the map produces position offsets.}}{21}%
